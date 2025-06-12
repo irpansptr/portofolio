@@ -1,0 +1,37 @@
+{
+    "name": "Irvan Hari Saputra - electronics engineering student",
+    "description": "Saya mahasiswa semester empat Politeknik Negeri Semarang jurusan Teknik Elektro Program studi Teknik Elektronika yang memiliki semangat tinggi dalam mengembangkan kemampuan melalui program magang kampus. Terampil mengoperasikan perangkat lunak elektronik seperti Proteus, Arduino IDE, CX-Programmer, Matlab, dan Labview. Saya adalah orang yang suka mempelajari hal-hal baru dan selalu siap berkontribusi aktif dalam setiap kesempatan yang ada.",
+    "profileImage": "images/profile.jpg",
+    "email": "irvansaputra1712@gmail.com",
+    "phone": "+62 (852) 269-98300",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/irvan.saputra_"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/irpansptr"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/ngebatinaja"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
