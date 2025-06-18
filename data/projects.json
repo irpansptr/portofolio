@@ -1,90 +1,26 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
+        "title": "Voltage reducer prototype",
+        "year": "2023,second semester",
+        "role": "Design and Physical Assembly of the Tool",
+        "description": "Voltage reducer prototype with input range 18-30 volts and output range 0-12 volts.",
         "image": "images/project1.png",
         "link": "https://example.com/solar-water"
     },
     {
-        "title": "SoC-based System for Non Contact Vital Signs Measurement",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
+        "title": "Internet of things based temperature monitoring",
+        "year": "2023,third semester",
+        "role": "Design and Physical Assembly of the Tool",
+        "description": "This system uses an ultrasonic sensor to detect a person and an MLX-90614 sensor for non-contact body temperature measurement, after which the data will be processed by the ESP 32 nodemcu. The data is then displayed via the blynk application which is connected in real time and the data that has been processed by the ESP 32 is also displayed using the 12C LCD and in addition the output produced in the form of sound as a notification using the DFPlayer mini Mp3.",
         "image": "images/project2.png",
         "link": "https://example.com/assembly-optimization"
     },
 	{
-        "title": "Contactless Vital Signs Kiosk in Intelligent Building",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
+        "title": "Arduino-based object monitoring tool in truck blind spot areas",
+        "year": "2024,fourth semester",
         "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
+        "description": "The system design begins when several small vehicles or there is an object approaching around the heavy vehicle. When the vehicle approaches the blind spot area, the ultrasonic sensor (HC-SR04) will detect and send data to the system control center, namely the Arduino Uno microcontroller. Arduino Uno will translate and respond to the information into a command or warning, so that the truck driver will get a notification in the form of an LED light and a buzzer as a siren sound. In addition to the buzzer and LED sounds, the LCD will automatically display information as a warning to the driver.",
         "image": "images/project3.png",
         "link": "https://example.com/assembly-optimization"
-    },
-    {
-        "title": "Smart Irrigation",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project4.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "KOICA-Silla-UMN Indstrial 4.0",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project5.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund: iSense",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project6.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund:RAMA",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project7.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Competitive Fund: PiDaQ",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project8.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Penelitian Tesis Magister: Activity Recognition",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project9.png",
-        "link": "https://example.com/solar-water"
-	}
+    }
 ]
