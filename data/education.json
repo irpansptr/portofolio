@@ -1,16 +1,16 @@
 [
     {
-        "university": "National Taiwan University of Science and Technology",
+        "university": "Politeknik Negeri semarang",
 		"logo": "images/ntust-logo.png",
-        "major": "Master of Science in Electronic and Computer Engineering",
-        "year": "2016 - 2018",
-        "description": "GPA 4.10 of 4.3; Belong to Biomedical and Embedded System (BEST) Laboratory under supervision of Prof. Lin Yuan-Hsiang (Taiwan Chief of Electronic); Lead with 1 IEEE conference paper and 1 prestigious regional symposium paper"
+        "major": "Electronical Engineering",
+        "year": "2022 - 2025",
+        "description": "GPA 3.51 out of 4.00; Became part of the Modular Production System maker based on programmable logic control under the guidance of DADI, S.T., M.Eng.; Participated in the creation of mechanics, wiring and programs in unit three that focused on the rotary table system and stamping"
     },
     {
-        "university": "Universitas Diponegoro",
+        "university": "SMA Negeri 1 Jekulo",
 		"logo": "images/undip-logo.png",
-        "major": "Bachelor of Engineering in Electrical Engineering",
-        "year": "2011 - 2015",
-        "description": "GPA 3.41 of 4; Focusing on Biomedical Engineering and Microelectronic under advisory of Munawar Riyadi Ph. D.; Electronic Laboratory Coordinator in 2015; Outcome research with 2 IEEE conference paper"
+        "major": "Science",
+        "year": "2019 - 2022",
+        "description": "Majoring in science under the guidance of Mansur Artha Q, S.Pd.; Became part of the student council organization of SMA Negeri 1 Jekulo"
     }
 ]
