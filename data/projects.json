@@ -3,7 +3,7 @@
         "title": "Voltage reducer prototype",
         "year": "2023,second semester",
         "role": "Design and Physical Assembly of the Tool",
-        "description": "Voltage reducer prototype with input range 18-30 volts and output range 0-12 volts.",
+        "description": "The circuit functions as a DC voltage reducer with a voltage output that can be varied by adjusting it using a potentiometer. The voltage reducer circuit can be supplied with a voltage of 18-30 VDC, with an output of 0-12 VDC.",
         "image": "images/project1.png",
         "link": "https://example.com/solar-water"
     },
